@@ -45,10 +45,10 @@ NOTES
 STEPS TO COMPLETE THE PROJECT 
 =============================
 
-Step 1: Create a GitHub repository
-Step 2: Create a Dockerfile and build it to image 
-Step 3: Create a Kubernetes deployment YAML file and apply the deployment file
-Step 4: Create a Kubernetes service YAML file and apply the service file
-Step 5: Create a TLS secret YAML file and apply the TLS file 
-Step 6: Create a GitHub Actions workflow YAML file
-Step 8: Test and verify
+- Step 1: Create a GitHub repository
+- Step 2: Create a Dockerfile and build it to image 
+- Step 3: Create a Kubernetes deployment YAML file and apply the deployment file
+- Step 4: Create a Kubernetes service YAML file and apply the service file
+- Step 5: Create a TLS secret YAML file and apply the TLS file 
+- Step 6: Create a GitHub Actions workflow YAML file
+- Step 8: Test and verify
